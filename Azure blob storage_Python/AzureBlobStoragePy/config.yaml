@@ -1,4 +1,4 @@
 ---
 azure_storage_connectionstring: "<enter your storage account connection string>"
 file_container_name: "<container_name>"
-source_folder: "<path to the folder of your files to be uploaded>
+source_folder: "<path to the folder of your files to be uploaded>"
