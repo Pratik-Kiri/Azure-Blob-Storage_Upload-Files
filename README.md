@@ -13,4 +13,4 @@ Get your Storage Account Connection String and paste it into config.yaml
 
 Paste the local path of the folder where files are stored, into config.yaml
  
-Now, run uploads.py
+Now, run upload.py
